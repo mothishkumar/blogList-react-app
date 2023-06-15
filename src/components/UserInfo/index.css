@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.user-image {
+  height: 100px;
+  width: 100px;
+}
+.user-heading {
+  color: #12022f;
+  font-family: Roboto;
+}
+.user-para {
+  color: #616e7c;
+  font-family: Roboto;
+}
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
